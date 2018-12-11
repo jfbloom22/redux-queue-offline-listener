@@ -2,7 +2,6 @@ pids
 logs
 npm-debug.log
 node_modules
-/lib
 coverage
 .vscode
 
